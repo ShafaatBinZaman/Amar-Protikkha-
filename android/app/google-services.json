@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "31563242489",
+    "project_id": "amarprotikkha-33ab9",
+    "storage_bucket": "amarprotikkha-33ab9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31563242489:android:650f83685e2ee23b25fb28",
+        "android_client_info": {
+          "package_name": "com.example.amar_protikkha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARoIDzEky1LdoAbuU_NXvke6VkZ7Y_wAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31563242489:android:e38e4e05a9bfce8d25fb28",
+        "android_client_info": {
+          "package_name": "com.example.amarprotikkha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARoIDzEky1LdoAbuU_NXvke6VkZ7Y_wAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
